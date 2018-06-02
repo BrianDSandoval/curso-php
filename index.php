@@ -19,7 +19,7 @@
     //phpinfo();
 
     /** Nombre válido de las variables **/
-    $miVar = "mi variable 1  ";
+    $miVar = "mi variable 01  ";
 
     $MiVar = "Mi Variable 2 ";
     $_miVar1 = "MI variable 3";
