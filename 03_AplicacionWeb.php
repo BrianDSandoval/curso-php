@@ -9,7 +9,7 @@
     $lang = @$_GET['lang'];
     if(!$lang)
         $lang = "es";
-    $title = "My First Page";
+    $title = "My First Page.";
 
     $dictionary = array(
         "en" => array(
