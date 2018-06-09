@@ -1,0 +1,4 @@
+es, hello, hola
+es, Hello Sandoval, Hola Sandoval
+en, hello, hello
+en, Hello Sandoval, Hello Sandoval
