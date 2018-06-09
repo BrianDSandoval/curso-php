@@ -9,6 +9,16 @@
     $t = translateByFile("es", "hello");
     var_dump($t);
     function translateByFile(string $lang = "en", string $text) : string {
+
+        switch($lang){
+            case "es":
+
+                break;
+
+            case "en":
+
+                break;
+        }
         $fr = fopen('traductor.txt', 'r');
         $respose = "";
 
